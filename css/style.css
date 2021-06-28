@@ -23,6 +23,18 @@ h3{
   cursor: pointer;
   border: none;
   font-size: 25px;
+  display: inline-block;
+}
+
+#import{
+  float: right;
+  margin-right: 30px;
+  margin-top: 10px;
+  background: none;
+  cursor: pointer;
+  border: none;
+  font-size: 25px;
+  display: inline-block;
 }
 
 .container{
@@ -32,7 +44,7 @@ h3{
 }
 
 .textBox{
-  width: 90%;
+  width: 85%;
   border: none;
   border-bottom: 2px solid #000;
   background: none;
